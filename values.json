@@ -1,6 +1,6 @@
-{ // json object node 
+{ 
    
-        "result": [ // json array label
+        "result": [ 
             {
                 "active_app": "true",
                 "priorities_natives": "a,f",
