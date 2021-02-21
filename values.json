@@ -12,7 +12,8 @@
                 "ad_admob_int_activate": false,
                 
                 
-                "guide_spam": "spam",
+                "guide_sp": "guide",
+                "store_in": "no",
                 
                 "ad_fan_native": "aaaa",
                 "ad_fan_int": "bbb",
