@@ -1,29 +1,4 @@
 { 
    
-        "result": [ 
-            {
-                "active_app": "true",
-                "priorities_natives": "f,a",
-                "priorities_ints": "a,f,u",
-                
-                
-                
-                
-                "guide_sp": "guide",
-                "store_in": "yes",
-                
-                "ad_fan_native": "787598785182322_790215418253992",
-                "ad_fan_int": "787598785182322_790216014920599",
-                "ad_fan_int_activate": true,
-                
-                "ad_unity_int": "987",
-                "ad_unity_placement_id": "78",
-                "ad_unity_int_activate": true,
-                
-                "store_data": "",
-                "ad_in_foreground": false,
-                "priorite_in_foreground": "u,f"
-            }
-        ]
     
 }
