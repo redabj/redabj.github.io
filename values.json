@@ -8,7 +8,7 @@
                 
                 "ad_admob_id": "ca-app-pub-3940256099942544~3347511713",
                 "ad_admob_native": "ca-app-pub-3940256099942544/2247696110",
-                "ad_admob_int": "ca-app-pub-3940256099942544/1033173712",
+                "ad_admob_int": "aaaaaaca-app-pub-3940256099942544/1033173712",
                 "ad_admob_int_activate": true,
                 
                 
@@ -19,7 +19,7 @@
                 "ad_fan_int": "787598785182322_790216014920599",
                 "ad_fan_int_activate": true,
                 
-                "ad_unity_int": "2615",
+                "ad_unity_int": "987",
                 "ad_unity_placement_id": "78",
                 "ad_unity_int_activate": true,
                 
