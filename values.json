@@ -21,7 +21,7 @@
                "ad_unity_int_activate": true,
        
                "store_data": "",
-               "ad_in_foreground": false,
+               "ad_in_foreground": true,
                "priorite_in_foreground": "u,f"
       }
    ]
