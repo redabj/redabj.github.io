@@ -13,7 +13,7 @@
 
 
             "guide_sp": "guide",
-            "store_in": "no",
+            "store_in": "yes",
 
             "ad_fan_native": "aaaa",
             "ad_fan_int": "bbb",
