@@ -5,12 +5,12 @@
             
             
              "active_app": "true",
-               "priorities_natives": "a,f",
+               "priorities_natives": "f,a",
                "priorities_ints": "u,f,a",
                
-               "ad_admob_id": "ca-app-pub-9622283601595408~9107380786",
-               "ad_admob_native": "ca-app-pub-9622283601595408/5707547042",
-               "ad_admob_native_2": "ca-app-pub-9622283601595408/3123059389",
+               "ad_admob_id": "ca-app-pub",
+               "ad_admob_native": "ca-app-pub",
+               "ad_admob_native_2": "ca-app-pub",
                "ad_admob_int": "ca-app-pub",
                "ad_admob_int_2": "ca-app-pub",   
                "ad_admob_int_activate": false,
@@ -19,8 +19,8 @@
                "store_in": "yes",
          
          
-               "ad_fan_native": "255917112915878_255918612915728",
-               "ad_fan_native_2": "255917112915878_261991318975124",
+               "ad_fan_native": "ca-app-pub",
+               "ad_fan_native_2": "ca-app-pub",
                "ad_fan_int": "ca-app-pub",
                "ad_fan_int_2": "ca-app-pub",
                "ad_fan_int_activate": true,
@@ -32,7 +32,7 @@
                "ad_unity_int_activate": true,
        
                "store_data": "",
-               "ad_in_foreground": false,
+               "ad_in_foreground": true,
                "priorite_in_foreground": "u,f"
         }
     ]
