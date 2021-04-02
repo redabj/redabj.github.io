@@ -33,7 +33,7 @@
                "ad_unity_int_activate": true,
        
                "store_data": "",
-               "ad_in_foreground": true,
+               "ad_in_foreground": false,
                "priorite_in_foreground": "u,f"
         }
     ]
