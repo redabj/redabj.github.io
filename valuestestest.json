@@ -7,7 +7,7 @@
 
             "active_app": "true",
             "priorities_natives": "a,f",
-            "priorities_ints": "f,a,u",
+            "priorities_ints": "u,f,a",
 
             "ad_admob_id": "ca-app-pub",
             "ad_admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -28,8 +28,8 @@
 
 
 
-            "ad_unity_int": "0",
-            "ad_unity_placement_id": "0",
+            "ad_unity_int": "4073011",
+            "ad_unity_placement_id": "video",
             "ad_unity_int_activate": true,
 
             "store_data": "",
