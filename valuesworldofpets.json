@@ -7,7 +7,7 @@
 
       "active_app": "true",
       "priorities_natives": "f,a",
-      "priorities_ints": "u,f,a",
+      "priorities_ints": "f,u,a",
 
       "ad_admob_id": "ca-app-pub",
       "ad_admob_native": "ca-app-pub",
@@ -21,9 +21,9 @@
 
 
       "ad_fan_native": "362878905151037_362879611817633",
-      "ad_fan_native_2": "00",
-      "ad_fan_int": "00",
-      "ad_fan_int_2": "00",
+      "ad_fan_native_2": "362878905151037_363872751718319",
+      "ad_fan_int": "362878905151037_363872255051702",
+      "ad_fan_int_2": "362878905151037_363873091718285",
       "ad_fan_int_activate": true,
 
 
