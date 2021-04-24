@@ -6,7 +6,7 @@
 
 
             "active_app": "true",
-            "priorities_natives": "a,f",
+            "priorities_natives": "f,a",
             "priorities_ints": "u,f,a",
 
             "ad_admob_id": "ca-app-pub",
