@@ -28,12 +28,12 @@
 
 
 
-      "ad_unity_int": "0",
-      "ad_unity_placement_id": "0",
+      "ad_unity_int": "4103255",
+      "ad_unity_placement_id": "inter",
       "ad_unity_int_activate": true,
 
       "store_data": "",
-      "ad_in_foreground": false,
+      "ad_in_foreground": true,
       "priorite_in_foreground": "u,f"
     }
   ]
