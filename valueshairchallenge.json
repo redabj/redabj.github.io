@@ -34,7 +34,7 @@
 
       "store_data": "",
       "ad_in_foreground": true,
-      "priorite_in_foreground": "u,f"
+      "priorite_in_foreground": "f,u"
     }
   ]
 
