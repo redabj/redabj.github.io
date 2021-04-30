@@ -10,8 +10,8 @@
       "priorities_ints": "f,u,a",
 
       "ad_admob_id": "ca-app-pub-9622283601595408~1353496341",
-      "ad_admob_native": "ca-app-pub-9622283601595408/7535761316",
-      "ad_admob_native_2": "ca-app-pub-9622283601595408/2134087367",
+      "ad_admob_native": "ca-app-pub-9622283601595408/2134087367",
+      "ad_admob_native_2": "ca-app-pub-9622283601595408/7535761316",
       "ad_admob_int": "ca-app-pub",
       "ad_admob_int_2": "ca-app-pub",
       "ad_admob_int_activate": false,
@@ -20,10 +20,10 @@
       "store_in": "yes",
 
 
-      "ad_fan_native": "294856245413521_294856642080148",
-      "ad_fan_native_2": "294856245413521_295333092032503",
-      "ad_fan_int": "294856245413521_295331445366001",
-      "ad_fan_int_2": "294856245413521_295332705365875",
+      "ad_fan_native": "294856245413521_295333092032503",
+      "ad_fan_native_2": "294856245413521_294856642080148",
+      "ad_fan_int": "294856245413521_295332705365875",
+      "ad_fan_int_2": "294856245413521_295331445366001",
       "ad_fan_int_activate": true,
 
 
