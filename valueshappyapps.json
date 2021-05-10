@@ -7,7 +7,7 @@
 
       "active_app": "true",
       "priorities_natives": "f,a",
-      "priorities_ints": "f,u,a",
+      "priorities_ints": "u,f,a",
 
       "ad_admob_id": "ca-app-pub",
       "ad_admob_native": "ca-app-pub",
@@ -20,10 +20,10 @@
       "store_in": "yes",
 
 
-      "ad_fan_native": "499461581199608_499462034532896",
-      "ad_fan_native_2": "499461581199608_500285064450593",
-      "ad_fan_int": "499461581199608_500284314450668",
-      "ad_fan_int_2": "499461581199608_500284854450614",
+      "ad_fan_native": "",
+      "ad_fan_native_2": "",
+      "ad_fan_int": "",
+      "ad_fan_int_2":"",
       "ad_fan_int_activate": true,
 
 
@@ -34,7 +34,7 @@
 
       "store_data": "",
       "ad_in_foreground": true,
-      "priorite_in_foreground": "f,u"
+      "priorite_in_foreground": "u,f"
     }
   ]
 
